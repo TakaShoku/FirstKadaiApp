@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 //        ラベルの作成
         let label = UILabel()
 //        文字の挿入
-        label.text = "HelloWorld!!"
+        label.text = "はじめてのアプリ"
 //        フォントサイズの変更
         label.font = UIFont(name: "HiraMinProN-W3", size: 30)
 //        サイズの自動調整
